@@ -13,4 +13,7 @@
 
 ## Resnet
 
-I had primarily experimented with Resnet18 and Resnet50, and had achieved nominal improvements per "restart"
+I had primarily experimented with Resnet18 and Resnet50, and had achieved nominal improvements per "restart" viz,
+
+![](https://imgur.com/3CaTjYa.png)
+![](https://i.imgur.com/voiTQnQ.png)
